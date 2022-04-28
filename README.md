@@ -1,5 +1,4 @@
-COMP2002 - Machine Learning and Optimisation Assignment
-This template can be used for the weekly coding exercises, and for your coursework.
+DATA Analysis
 
 # Import packages used in the Python Program
 import pandas as pandas
